@@ -1,0 +1,6 @@
+# FORGE-SEC — dependencias Python
+# El compilador usa solo stdlib de Python 3.12+
+# No hay dependencias externas de runtime.
+#
+# Para desarrollo / tests (opcionales):
+pytest>=8.0
