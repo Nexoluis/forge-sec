@@ -1,5 +1,7 @@
 # FORGE-SEC
 
+[![GitHub](https://img.shields.io/badge/GitHub-Nexoluis%2Fforge--sec-blue?logo=github)](https://github.com/Nexoluis/forge-sec)
+
 > **"Lo inseguro no debe ser expresable. Lo seguro debe ser lo natural."**
 
 Compilador de un lenguaje de intención segura diseñado para ser **generado por IA** y traducido a código seguro en PHP 8.2, Python 3.12, Java 21 y Rust.
@@ -232,6 +234,8 @@ rusqlite  = { version = "0.31", features = ["bundled"] }
 
 **Luis Reina** — AGX OSINT S.L.  
 Concepto y primera implementación: 2026
+
+**Repositorio:** https://github.com/Nexoluis/forge-sec
 
 ---
 
